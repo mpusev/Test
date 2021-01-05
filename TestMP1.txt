@@ -1,2 +1,1 @@
-TestMP1 - r1
-TestMP1 - l1
+TestMP1
