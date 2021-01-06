@@ -1,2 +1,1 @@
-TestMP1 - mr
-TestMP1 - b12
+TestMP
